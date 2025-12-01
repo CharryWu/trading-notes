@@ -64,7 +64,6 @@ Al Brooks argues that the market is always in one of two states, and a trader's 
 > **CORE IDEA:** All movement, whether a Trend or a Trading Range, is a fractal pattern (repeating on every timeframe) and can be read *bar-by-bar* to determine the probability of the next move.
 
 ---
-
 ## 🎯 Key Concepts: Signal Bars and Setups
 
 A **Setup** is a specific bar pattern that signals a potential trade. It is composed of a **Signal Bar** and an **Entry Bar** (often the bar *after* the signal bar).
@@ -82,6 +81,9 @@ The **Signal Bar (SB)** is the bar that tells you to prepare for a trade. It is 
 > **Context is King:** The quality of the setup is **80% Context** (Is the market at a key support/resistance level? Is this the second leg of a trend?) and **20% Signal Bar quality**. A great signal bar in bad context is a low-probability trade.
 
 ![signal-bar](./img/signal-bar.jpg)
+
+* **Bullish Signal Bar:** A bar with a small body near its high and a long tail below it. It shows that bears tried to push the price down, but bulls took control and reversed it.
+* **Bearish Signal Bar:** A bar with a small body near its low and a long tail above it. It shows that bulls tried to push the price up, but bears took control and reversed it.
 
 ### 2. Major Trend Reversals (MTRs) - The Pattern
 
@@ -105,9 +107,9 @@ The **Major Trend Reversal (MTR)** is a powerful, high-probability setup that ma
 
 These are the most common entries *with* the trend, usually occurring during a pullback after a strong move (a **"flag"** pattern).
 
-* **H1 (High 1):** The **first pullback** where price makes a new high above the previous bar's high in a bull trend. This is usually low probability because the first pullback is often brief and followed by a deeper test.
-* **H2 (High 2):** The **second pullback** where price makes a new high above the previous bar's high in a bull trend. This is a much higher probability entry because the market often tests a reversal attempt twice.
-    * ***Mirror Image for Downtrends:*** **L1 (Low 1)** and **L2 (Low 2)**. You sell below the bar that triggers the L1/L2 setup.
+* **H1 (High 1):** The **first pullback** where price makes a new high above the previous bar's high in a bull trend. It's often a brief, one-legged correction. This is usually low probability because the first pullback is often brief and followed by a deeper test.
+* **H2 (High 2):** The **second attempt** where price makes a new high above the previous bar's high in a bull trend. Trend to resume after a more complex, two-legged pullback (often called an "abc" correction). H2 setups are generally considered higher probability than H1 setups because the market often tests a reversal attempt twice.
+    * ***Mirror Image for Bear Trends:*** the equivalent setups are **L1 (Low 1)** and **L2 (Low 2)**. You sell below the bar that triggers the L1/L2 setup.
 
 ![h1-h2-pullback](./img/h1-h2-pullback.jpg)
 
