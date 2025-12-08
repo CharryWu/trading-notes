@@ -122,5 +122,3 @@ Brooks emphasizes that trading is a game of **probabilities**, not certainties.
 * **Risk/Reward:** He often advocates for **scalping** (aiming for a small profit, like a $1 \text{ scalp}$ on the E-mini S\&P 500) where the probability is high (e.g., $60\%$ to $70\%$ win rate) but the reward is small, or **swing trading** where the Reward is at least $2 \text{ times}$ the Risk, allowing for a lower win rate (e.g., $40\%$ win rate) to still be profitable.
 * **Stop Placement:** The protective stop should always be placed **one tick beyond the *worst-case* point of the pattern**, which is often the low/high of the entire reversal structure.
 * **Trade Management:** Scalping involves taking profit quickly at a Measured Move or a key magnet (like the Moving Average or a prior extreme). Swing trades are held longer for a larger Measured Move.
-
-Do you have a specific chart you are looking at right now, or would you like a deeper explanation of the **$80\%$ Rule** for trading ranges?
