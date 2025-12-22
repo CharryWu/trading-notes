@@ -4,7 +4,7 @@ It is one of the most reliable trade setups because it represents a complex paus
 
 ### 📉 The Anatomy of an ABC Correction
 
-An ABC correction consists of three distinct moves (waves) that run counter to the main trend.
+An ABC correction consists of three distinct moves (waves) that run counter to the main trend. In a bull trend, ABC correction consists of 2 legs down and 1 leg up.
 
 1.  **Leg A (The First Pullback):** The trend is strong, but traders begin to take profits. The price pulls back.
 2.  **Leg B (The Failed Resumption):** Traders try to re-enter the trend immediately, but there isn't enough momentum yet. The price attempts to resume the trend but fails (creating a lower high in a bull trend).

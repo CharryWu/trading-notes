@@ -1,4 +1,14 @@
+> During a pullback in bull trend (bull flag), if following occurs: a bar with a high above its prior bar, then the prior bar is an H1 signal bar. H1 is bottom of the bull flag or near the bottom of a trading range. The bar with a high above the prior bar is actually the entry bar for the H1 signal bar
+
+> H1 就是牛趋势中的熊回调的第一次拉高操作，first reversal up after breakout to high, H2 就是熊回调的第二次拉高操作；如果出现任何较大的突破都要重新计数
+
+> 操作：止损点在 H1/H2 低点 - 1 tick，入场在 H1/H2 高点 + 1 tick
+
+> H1/L1 in trading ranges are less applicable since using wide stops make more sense in trading ranges and to scale in!
+
 > https://www.reddit.com/r/Daytrading/comments/1hgxowd/how_to_know_the_difference_between_a_lower_high/
+
+![abc-pullback-h1-h2](./img/ABC-pullback-h1-h2.png)
 
 ### 1. The Bull Signal Bar
 

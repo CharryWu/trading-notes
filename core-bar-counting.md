@@ -1,3 +1,4 @@
+> 一个突破k线就可以reset bar counting
 Since you are looking to **automate** or **apply** these concepts elsewhere (like Steve Dux's short-biased strategies), you need to strip away the "art" and look at the **logic** and **rules**. Al’s system is essentially a giant decision tree, which is perfect for an algorithmic approach if you define the variables strictly.
 
 Let's break down the core mechanics you asked about using analogies and clear logic.
