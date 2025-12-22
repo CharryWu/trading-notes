@@ -78,14 +78,14 @@ Here is how the decision tree looks for the bot:
 ```mermaid
 graph TD
     A[New Bar Closes] --> B{Is Price > 20 EMA?}
-    B -- No --> C[Ignore (Bear/Range)]
-    B -- Yes --> D{Is High < Previous High?}
-    D -- No --> E[Trend Continuing (No Pullback)]
-    D -- Yes --> F[High 1 Signal Detected]
+    B -->|No| C[Ignore Bear/Range]
+    B -->|Yes| D{Is High < Previous High?}
+    D -->|No| E[Trend Continuing No Pullback]
+    D -->|Yes| F[High 1 Signal Detected]
     F --> G[Place Buy Stop @ High + 1 tick]
     G --> H{Does Next Bar hit Price?}
-    H -- Yes --> I[ENTER LONG TRADE]
-    H -- No --> J[Cancel Order (Wait for H2)]
+    H -->|Yes| I[ENTER LONG TRADE]
+    H -->|No| J[Cancel Order Wait for H2]
 ```
 
 ### Next Step
