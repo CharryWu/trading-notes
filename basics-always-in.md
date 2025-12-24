@@ -9,6 +9,9 @@
 
 - 散户交易者偏好技术分析，机构偏好基本面分析。但是基本面分析也会看图表，并不少完全不看的
 
+- always in 如果立即开仓，你选择开哪个方向的仓位
+  - bull trend - always in long
+  - bear trend - always in short
 ---
 - ABC回调趋势：两腿回调k线，然后继续趋势。下单方式是通过在高bar上的止损单下的  
 参考 [h1-h2-more-explained](./h1-h2-more-explained.md)
