@@ -1,4 +1,5 @@
 ## Risk on and Risk off
+
 - Momentum firms buy even when they know the market is expensive, because they are confident the momentum will carry it higher
 
 - Value firms only want to buy when market is extremely cheap
