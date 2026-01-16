@@ -13,6 +13,8 @@
 
 1. 追求高盈亏比的模式，成功拿到的概率就必然低。
 2. 追求高概率大模式，盈亏比就差强人意
+![scalper](./img/scalper-low-risk-small-profit.png)
+![swinger](./img/swing-trade-low-prob-big-reward.png)
 
 如果你交易策略第一种偏多，那么就需要有耐心等待，可能一个交易日需要等几个小时或者等几天才会出现一次
 
@@ -27,3 +29,18 @@
 ![fix-mistake-quickly](./img/recognize-fix-mistakes-quickly.png)
 
 ![newbie-mistake-hodl](./img/i-want-mistake.png)
+
+## 学会与不确定性相兼容
+
+- Clarity exists only briefly, usually 60% time you live with uncertainty
+- Loss is inevitable
+- Nothing is clear in real-time
+
+## 学会找到最舒服的交易模式
+
+- You must be comfortable because you're doing this for many years
+- It must be enjoyable and miserably stressful
+
+## 找到一个最舒服的交易方式，有一千种方式去挣钱
+
+- 海豹突击队训练法则：当你内心觉得已经做完了，实际上只完成了40%
