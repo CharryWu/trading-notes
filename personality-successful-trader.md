@@ -20,6 +20,8 @@
 
 **注意⚠️**：不要因为一次交易的风险低就参与，初学者看风险低，但并没有意识到成功的概率不高。一个形态更有可能失败的时候，交易者收入的期望是亏钱的
 
+## 注意交易管理。在开仓之后，市场是不断的动态变化的，不要觉得
+
 ## 尊重市场
 
 - 像尊重老者一样尊重市场规律，市场运行了数千年了，根本现象经常出现
@@ -28,7 +30,7 @@
 - 成熟的交易员也有出错的时候，他们和新手的区别是，成熟交易员会很快承认自己错误
 ![fix-mistake-quickly](./img/recognize-fix-mistakes-quickly.png)
 
-![newbie-mistake-hodl](./img/i-want-mistake.png)
+![newbie-mistake-hodl](./img/iw-want-mistake.png)
 
 ## 学会与不确定性相兼容
 
@@ -39,8 +41,12 @@
 ## 学会找到最舒服的交易模式
 
 - You must be comfortable because you're doing this for many years
-- It must be enjoyable and miserably stressful
+- It must be enjoyable and NOT miserably stressful
 
 ## 找到一个最舒服的交易方式，有一千种方式去挣钱
 
 - 海豹突击队训练法则：当你内心觉得已经做完了，实际上只完成了40%
+
+## 仓位管理，交易管理比技术分析更重要
+
+[查看交易管理篇章](./trade-mgmt.md)
