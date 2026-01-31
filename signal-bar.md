@@ -23,7 +23,6 @@
 
 ![beginners-desperate-for-reassurance](./img/beginner-desperate-reassurance.png)
 
-
 ### 逆转强信号k线：k线本身是逆转方向的实心
 
 ![strong-bull-reversal](./img/strong-bull-reversal-bar.png)
