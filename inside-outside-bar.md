@@ -9,3 +9,10 @@
 ## 外包k线的第二根幅度强于第一根，可以作为入场k线，或者当成趋势突破线
 
 ![bear-breakout](./img/bear-ob-breakout.png)
+
+- 窄通道的外包k线更有可能是一根突破k线
+
+## 再窄的区间和外包k线，也需要 context 的支持 - context 决定大方向
+
+![trend-reversal-setup](./img/bo-need-context.png)
+![bo-bad-context](./img/bo-bad-context.png)
