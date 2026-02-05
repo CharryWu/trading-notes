@@ -16,3 +16,7 @@
 
 ![trend-reversal-setup](./img/bo-need-context.png)
 ![bo-bad-context](./img/bo-bad-context.png)
+
+## 狭窄的交易区间的内部k线会有更高的回报
+
+![ttr-high-probability](./img/ttr-higher-probability.png)
