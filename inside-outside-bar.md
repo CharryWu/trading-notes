@@ -20,3 +20,9 @@
 ## 狭窄的交易区间的内部k线会有更高的回报
 
 ![ttr-high-probability](./img/ttr-higher-probability.png)
+
+## 例子：双重内包k线有可能是趋势结束的信号
+
+![final-flag](./img/final-flag.png)
+
+![reverse-trapped](./img/reversal-trapped.png)
