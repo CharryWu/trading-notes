@@ -17,7 +17,7 @@
 ![trend-reversal-setup](./img/bo-need-context.png)
 ![bo-bad-context](./img/bo-bad-context.png)
 
-## 狭窄的交易区间的内部k线会有更高的回报
+## 狭窄的交易区间出现的内包k线会有更高的回报
 
 ![ttr-high-probability](./img/ttr-higher-probability.png)
 
@@ -36,3 +36,5 @@ IOI 如果第三根线是阳线，是一个好的买入信号k线
 ![ioi-bull](./img/ioi-bull.png)
 
 ![ioi-bear](./img/ioi-bear.png)
+
+![ttr-bom](./img/ttr-bom.png)
