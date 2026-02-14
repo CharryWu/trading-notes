@@ -15,5 +15,3 @@
 ## e-mini caveat divergence
 
 ![e-mini-setup-caveat](./img/e-mini-setup-caveat.png)
-
-
